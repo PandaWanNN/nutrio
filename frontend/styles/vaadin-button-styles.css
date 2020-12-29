@@ -1,0 +1,26 @@
+:host(.square-bordered) {
+    background-color: lightgray;
+    font-size: var(--lumo-font-size-xs);
+    font-weight: bold;
+    margin-left: 0 !important;
+}
+
+:host(.square-bordered-right) {
+    border-radius: 0 6px 6px 0;
+}
+
+:host(.square-bordered-left) {
+    border-radius: 6px 0 0 6px;
+}
+
+:host(.square-bordered-middle) {
+    border-radius: 0 0 0 0;
+}
+
+:host(.square-bordered-primary) {
+    background-color: var(--lumo-primary-color);
+    font-size: var(--lumo-font-size-xs);
+    font-weight: bold;
+    color: white;
+    margin-left: 0 !important;
+}

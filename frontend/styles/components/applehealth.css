@@ -1,0 +1,10 @@
+.applehealth__icon {
+    height: 50px;
+    width: 50px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.applehealth__description {
+    color: gray;
+}

@@ -1,0 +1,6 @@
+html {
+    --lumo-primary-text-color: rgb(42, 157, 143);
+    --lumo-primary-color-50pct: rgba(42, 157, 143, 0.5);
+    --lumo-primary-color-10pct: rgba(42, 157, 143, 0.1);
+    --lumo-primary-color: #2a9d8f;
+}

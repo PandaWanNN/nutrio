@@ -1,0 +1,23 @@
+.motivation__button {
+    background-color: var(--lumo-primary-color);
+    height: 80px;
+    padding: 14px;
+    border-radius: 4px;
+}
+
+.motivation__button__selected {
+    background-color: black;
+    height: 80px;
+    padding: 14px;
+    border-radius: 4px;
+}
+
+.motivation__button__label {
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.motivation__content {
+    padding: 32px;
+}

@@ -1,0 +1,9 @@
+.consultation {
+    margin: var(--lumo-space-s);
+}
+
+.consultation__line {
+    background-color: var(--lumo-primary-color);
+    width: 100%;
+    height: 1px;
+}

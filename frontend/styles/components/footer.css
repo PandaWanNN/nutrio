@@ -1,0 +1,27 @@
+.footer {
+  width: 100%;
+}
+
+.footer__container {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 8px;
+  width: 100%;
+}
+
+.footer__avatar {
+  border-radius: 100%;
+  border: 12px var(--lumo-primary-color) solid;
+  height: var(--lumo-size-s);
+  width: var(--lumo-size-s);
+  color: white;
+  background: var(--lumo-primary-color);
+}
+
+.footer__icon__selected {
+  color: var(--lumo-primary-color);
+}
+
+.footer__icon {
+  color: gray;
+}

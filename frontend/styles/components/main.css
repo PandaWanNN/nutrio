@@ -1,0 +1,27 @@
+.main__content {
+    overflow: hidden;
+}
+
+.main__avatar {
+    border-radius: 100%;
+    border: 12px #2a9d8f solid;
+    height: var(--lumo-size-s);
+    width: var(--lumo-size-s);
+    color: white;
+    background: #2a9d8f;
+}
+
+.main__footer {
+    padding-top: 8px;
+    margin-left: 36px;
+    margin-right: 36px;
+    margin-bottom: 6px;
+}
+
+.main__footer__icon__selected {
+    color: #2a9d8f;
+}
+
+.main__footer__icon {
+    color: gray;
+}
